@@ -1,2 +1,2 @@
 ### progress-steps
-a lil project to play around with javascript
+a little project to play around with javascript
